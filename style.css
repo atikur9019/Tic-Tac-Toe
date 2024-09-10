@@ -24,6 +24,7 @@ body {
     color: #ffffc7;
     font-family: 'Poppins', sans-serif;
     font-size: 5vmin;
+    margin-top: 5px;
 }
 .main {
     display: flex;
